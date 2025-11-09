@@ -1,0 +1,9 @@
+pillow
+tqdm
+textual
+rich
+pyexiftool
+python-dateutil
+piexif
+mutagen
+xattr
